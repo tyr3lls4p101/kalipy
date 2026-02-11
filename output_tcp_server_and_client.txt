@@ -1,0 +1,7 @@
+server:
+[*] Listening on 0.0.0.0:9998
+[*] Accepted connection from 127.0.0.1:55956
+[*] Received: ABCDEF
+
+client:
+ACK
